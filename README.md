@@ -1,10 +1,7 @@
 ### Hello! Welcome to my profile👋
 
-I'm Matheus, a Computer Egineering student passionated about technology! 
+I'm Matheus, a Computer Egineering student passionated about technology! I'm always looking for learning and collaborating.
 
-<br>
-I'm always looking for learning and collaborating.
-I have knowledge on the following technologies:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Js"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
