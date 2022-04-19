@@ -1,6 +1,6 @@
 ### Hello! Welcome to my profile👋
 
-I'm Matheus, a Computer Egineering student passionated about technology! I'm always looking for learning and collaborating.
+I'm Matheus, a Computer Egineering student passionate about technology! I'm always looking for learning and collaborating.
 
 
 <div style="display: inline_block"><br>
