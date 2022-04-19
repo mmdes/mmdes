@@ -20,15 +20,6 @@ I have knowledge on the following technologies:
   
  <br>
 
-<!--
-<div align="center">
-  <a href="https://github.com/mmdes">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmdes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
--->
-
-  
   
 <!--
 **mmdes/mmdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
