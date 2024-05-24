@@ -2,6 +2,9 @@
 
 I'm Matheus, Computer Egineering Undergraduate and passionate about technology! I'm always looking for learning and collaborating.
 
+<strong>import { dreams } from 'life';</strong> <br>
+<strong>self.chase( dreams );</strong>
+
 
 
 <!--  <div style="display: inline_block"><br>
