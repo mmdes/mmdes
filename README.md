@@ -1,6 +1,6 @@
 ### Hello! Welcome to my profile👋
 
-I'm Matheus, Computer Egineering Undergraduate and passionate about technology! I'm always looking for learning and collaborating.
+I'm Matheus, Computer Engineering Undergraduate and passionate about technology! I'm always looking for learning and collaborating.
 
 <strong>import { dreams } from 'life';</strong> <br>
 <strong>self.chase( dreams );</strong>
