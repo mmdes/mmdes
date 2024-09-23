@@ -1,6 +1,4 @@
-### Hello! Welcome to my profile👋
-
-I'm Matheus, a Computer Engineer passionate about technology! I'm always looking for learning and collaborating.
+### Hello! I'm Matheus, nice to have you in my profile👋
 
 <strong>import { dreams } from 'life';</strong> <br>
 <strong>self.chase( dreams );</strong>
