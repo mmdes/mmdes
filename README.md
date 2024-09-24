@@ -1,4 +1,4 @@
-### Hello! I'm Matheus, nice to have you in my profile👋
+### Thanks for stopping by 👋
 
 <strong>import { dreams } from 'life';</strong> <br>
 <strong>self.chase( dreams );</strong>
